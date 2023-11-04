@@ -1,0 +1,7 @@
+
+zappit-env/bin/
+zappit-env/lib/
+.env/
+__pycache__/
+*.pyc
+*.pyo
